@@ -1,4 +1,4 @@
-# 🚀 Malvin-Session-Generator
+# Lelouch-Session-Generator
 
 ## 📊 Visitor Counter
 
@@ -15,7 +15,7 @@
 Generate session IDs for WhatsApp bots using [`@whiskeysockets/baileys`](https://github.com/whiskeysockets/baileys), with secure **MEGA** cloud storage and a fast web QR login.
 
 > ⚠️ This is the **same code** used on my live site:  
-> 🔗 [Session Generator Website](https://new-session-2ag9.onrender.com/)  
+> 🔗 [Session Generator Website](((https://lelouch-pair.onrender.com)))  
 > 💬 Don't ask for more — just **fork**, **star**, **edit** ,and **deploy**!
 
 ---
